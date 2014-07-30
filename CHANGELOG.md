@@ -1,5 +1,9 @@
 #Changelog
 
+## July 30, commit 3
+
+  * Made zombie print right 
+
 ## July 30, commit 2
 
   * `touch zss`
