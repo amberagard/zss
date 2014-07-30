@@ -1,8 +1,15 @@
 #Changelog
 
-## July 30, commit 3
+## July 30, commit 5
 
-  * Made zombie print right 
+  * Integration specs for the training paths menu, which compelled us to write
+  * Integration specs for creating a training path
+
+Note: The training paths are all expected to fail in this commit.  
+
+## July 30, commit 3 and 4
+
+  * Made zombie print right
 
 ## July 30, commit 2
 
