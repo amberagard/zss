@@ -29,7 +29,7 @@ NUGGGGGH MUST EAT BRAINS
     end
 
     it "should print the list of training paths" do
-      pending "The ability to add training paths via the command line"
+      pending "The ability to add training paths via. the CLI"
       TrainingPath.create(name: "Running")
       TrainingPath.create(name: "Hand-to-Hand Combat")
       TrainingPath.create(name: "Sneaking")
