@@ -19,7 +19,7 @@ As a survival sherpa
 In order for my students to actually learn a skill
 I want to enter a description when I create a skill
 
-* Note: These would be entered as parting of creating a skill.
+* Note: These would be entered as part of creating a skill.
 
 ## Student views a skill's details
 
